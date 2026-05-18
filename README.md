@@ -17,7 +17,7 @@ Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
 <img width="424" height="446" alt="image" src="https://github.com/user-attachments/assets/232ebe99-4ad9-4311-992c-2d74a017ef52" />
 
 ## Ideas for upgrading:
-1. Volume up/volume dow buttons.
+1. Volume up/volume down buttons.
 2. The lines on the display change when the song switches itself.
 3. Instead of a speaker, use your own design of an amplifier and speakers.
 4. External power supply.
