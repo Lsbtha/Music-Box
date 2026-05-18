@@ -2,9 +2,9 @@ Based on ControllersTech project
 
 Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
 
-## -ENGLISH-
+# -ENGLISH-
 
-# Used:
+## Used:
 1. STM32F407 Discovery (STM32F407VGT6).
 2. 1 push button with locking.
 3. 3 push button without locking.
@@ -16,7 +16,7 @@ Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
 
 <img width="424" height="446" alt="image" src="https://github.com/user-attachments/assets/232ebe99-4ad9-4311-992c-2d74a017ef52" />
 
-# Ideas for upgrading:
+## Ideas for upgrading:
 1. Volume up/volume dow buttons.
 2. The lines on the display change when the song switches itself.
 3. Instead of a speaker, use your own design of an amplifier and speakers.
@@ -26,10 +26,10 @@ Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
 7. ...
 
 
-## -РУССКИЙ-
+# -РУССКИЙ-
 
 
-# Использовано:
+## Использовано:
 1. Отладочная плата STM32F4 Discovery на базе микроконтроллера STM32F407VGT6.
 2. 1 миниатюрная кнопка с фиксацией.
 3. 3 миниатюрные кнопки без фиксации.
@@ -41,7 +41,7 @@ Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
 
 <img width="424" height="446" alt="image" src="https://github.com/user-attachments/assets/232ebe99-4ad9-4311-992c-2d74a017ef52" />
 
-# Идеи для улучшения:
+## Идеи для улучшения:
 1. Кнопки увеличения/уменьшения громкости.
 2. Строки на дисплее меняются, когда песня переключилась сама.
 3. Вместо колонки использовать собственную конструкцию из усилителя и динамиков.
