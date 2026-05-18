@@ -6,9 +6,10 @@
 5. USB флешка.
 6. Любая активная колонка (я использую JBL WIND 2).
 
-<img width="256" height="151" alt="image" src="https://github.com/user-attachments/assets/d57c5dc7-6ce4-4a47-bbf9-3204504639fc" />
+<img width="512" height="302" alt="image" src="https://github.com/user-attachments/assets/d57c5dc7-6ce4-4a47-bbf9-3204504639fc" />
 
-<img width="212" height="223" alt="image" src="https://github.com/user-attachments/assets/232ebe99-4ad9-4311-992c-2d74a017ef52" />
+
+<img width="424" height="446" alt="image" src="https://github.com/user-attachments/assets/232ebe99-4ad9-4311-992c-2d74a017ef52" />
 
 ## Идеи для улучшения:
 1. Кнопки увеличения/уменьшения громкости.
