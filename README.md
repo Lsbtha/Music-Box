@@ -1,3 +1,6 @@
+Based on ControllersTech project
+Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
+
 ## Использовано:
 1. Отладочная плата STM32F4 Discovery на базе микроконтроллера STM32F407VGT6.
 2. 1 миниатюрная кнопка с фиксацией.
@@ -8,7 +11,6 @@
 
 <img width="512" height="302" alt="image" src="https://github.com/user-attachments/assets/d57c5dc7-6ce4-4a47-bbf9-3204504639fc" />
 
-
 <img width="424" height="446" alt="image" src="https://github.com/user-attachments/assets/232ebe99-4ad9-4311-992c-2d74a017ef52" />
 
 ## Идеи для улучшения:
@@ -17,4 +19,5 @@
 3. Вместо колонки использовать собственную конструкцию из усилителя и динамиков.
 4. Внешнее питание.
 5. Собрать всё под корпусом, чтобы получилась настоящая музыкальная шкатулка.
-6. ...
+6. Добавить мигание светодиодов, чтобы было красивее.
+7. ...
