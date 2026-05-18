@@ -1,8 +1,8 @@
-Based on ControllersTech project
+# -ENGLISH-
+
+Based on ControllersTech project (I added LCD display and external buttons).
 
 Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
-
-# -ENGLISH-
 
 ## Used:
 1. STM32F407 Discovery (STM32F407VGT6).
@@ -28,6 +28,9 @@ Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
 
 # -РУССКИЙ-
 
+Основано на проекте от ControllersTech (Я добавила LCD дисплей и несколько внешних кнопок).
+
+Ссылка: https://controllerstech.com/waveplayer-using-stm32-discovery/
 
 ## Использовано:
 1. Отладочная плата STM32F4 Discovery на базе микроконтроллера STM32F407VGT6.
