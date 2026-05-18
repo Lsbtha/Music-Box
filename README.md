@@ -42,7 +42,9 @@ Link: https://controllerstech.com/waveplayer-using-stm32-discovery/
 
 <img width="512" height="302" alt="image" src="https://github.com/user-attachments/assets/d57c5dc7-6ce4-4a47-bbf9-3204504639fc" />
 
-<img width="424" height="446" alt="image" src="https://github.com/user-attachments/assets/232ebe99-4ad9-4311-992c-2d74a017ef52" />
+
+<img width="424" height="446" alt="image" src="https://github.com/user-attachments/assets/d0488055-f977-4efc-a7e8-3c122e01f29f" />
+
 
 ## Идеи для улучшения:
 1. Кнопки увеличения/уменьшения громкости.
